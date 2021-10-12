@@ -34,7 +34,7 @@ matplotlib==2.2.2
 mecab-python3==0.7
 numpy==1.14.5
 oauthlib==2.1.0
-opencv-python==3.4.1.15
+opencv-python==3.4.7.28
 pilkit==2.0
 Pillow==5.2.0
 psycopg2==2.7.5
